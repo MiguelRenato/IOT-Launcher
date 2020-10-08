@@ -9,7 +9,7 @@ IOT Launcher  for InfluxDB, Node-RED, Mosquitto and Grafana.
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/MiguelRenato/IOT-Launcher/blob/main/screenshots/IOT_Launcher_Project.png" />
 </h1>
 
-Under development...
+
 
 
 
