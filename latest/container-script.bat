@@ -30,7 +30,6 @@ rename influxdb-1.8.3-1 influxdb
 del influxdb-1.8.3_windows_amd64.zip
 ::---------------------------------------------------------------------------------------------
 powershell write-host -back DarkCyan  [ Getting Grafana Container ]
-timeout 2 >nul
 wget.exe wget https://dl.grafana.com/oss/release/grafana-7.2.0.windows-amd64.zip
 7z.exe x grafana-7.2.0.windows-amd64.zip
 rename grafana-7.2.0 grafana
