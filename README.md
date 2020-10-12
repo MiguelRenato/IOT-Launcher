@@ -1,9 +1,24 @@
+
+
 # IOT-Launcher
-IOT Launcher  for InfluxDB, Node-RED, Mosquitto and Grafana.
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/MiguelRenato/IOT-Launcher/blob/main/screenshots/IOT%20Launcher.png" />
-</h1>
+IOT-Launcer  é uma ferramenta para ambiente de desenvolvimento, com acesso fácil e portable a ferramentas 
+
+como Mosquitto, InfluxDB, Node-RED e Grafana.
+
+Ao executar a primeira vez ele irá criar uma pasta designada de container  lá serão instaladas as aplicações.
+
+Não se esqueça de clicar em ( Container Script)  para carregar as aplicações.
+
+Podem fazer o download em [https://github.com/MiguelRenato/IOT-Launcher/raw/main/latest/IOT-Launcher.exe]()
+
+------
+
+![](https://raw.githubusercontent.com/MiguelRenato/IOT-Launcher/main/screenshots/IOT%20Launcher.png)
 
 
+
+Qualquer duvida podem deixar  [AQUI](https://movimentomaker.pt/t/programa-iot-launcher/1923)
+
+[TOC]
 
