@@ -10,7 +10,7 @@ Ao executar a primeira vez ele irá criar uma pasta designada de container  lá 
 
 Não se esqueça de clicar em ( Container Script)  para carregar as aplicações.
 
-Podem fazer o download em [https://github.com/MiguelRenato/IOT-Launcher/raw/main/latest/IOT-Launcher.exe]()
+Podem fazer o download em [https://github.com/MiguelRenato/IOT-Launcher/blob/main/latest/IOT-Launcher.exe?raw=true]()
 
 ------
 
