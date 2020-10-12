@@ -10,9 +10,11 @@ Ao executar a primeira vez ele irá criar uma pasta designada de container  lá 
 
 Não se esqueça de clicar em ( Container Script)  para carregar as aplicações.
 
-Podem fazer o download em [https://github.com/MiguelRenato/IOT-Launcher/raw/main/latest/IOT-Launcher.exe]()
+Podem fazer o download em [https://github.com/MiguelRenato/IOT-Launcher/blob/main/latest/IOT-Launcher.exe]()
 
 ------
+
+
 
 ![](https://raw.githubusercontent.com/MiguelRenato/IOT-Launcher/main/screenshots/IOT%20Launcher.png)
 
@@ -20,5 +22,9 @@ Podem fazer o download em [https://github.com/MiguelRenato/IOT-Launcher/raw/main
 
 Qualquer duvida podem deixar  [AQUI](https://movimentomaker.pt/t/programa-iot-launcher/1923)
 
-[TOC]
+
+
+
+
+------
 
