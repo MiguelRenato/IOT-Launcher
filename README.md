@@ -20,7 +20,7 @@ Podem fazer o download em https://github.com/MiguelRenato/IOT-Launcher/blob/main
 
 
 
-Qualquer duvida podem deixar  [AQUI](https://movimentomaker.pt/t/programa-iot-launcher/1923)
+Qualquer duvida podem deixar  [AQUI](https://forum.cpha.pt/t/programa-iot-launcher/5967)
 
 
 
